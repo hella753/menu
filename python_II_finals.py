@@ -81,7 +81,7 @@ print("Difference of arrays:\n", difference_arrays)
 print("Combined and reshaped array:\n", reshaped_array)
 
 
-# 5
+# 4
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
