@@ -1,0 +1,2 @@
+//ui file to py file command
+//pyuic5 -x name.ui -o name.py 
